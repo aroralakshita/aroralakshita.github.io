@@ -3,7 +3,6 @@
     margin-bottom: 10px;
     margin-right: 0px;
     margin-left: 0px;
-    color: #000000;
     font-family: "Times New Roman", Times, serif;
     box-sizing: border-box;
   }
@@ -59,11 +58,12 @@
     color: #ffeaee
   }
   
-  .intro {
+  .introduction {
     font-size: 150%;
     margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 5%;
+    color: #000000;
   }
   
   .margin {
@@ -84,6 +84,7 @@
   
   .copyright {
     text-align: center;
+    color: #000000;
   }
   
   .lavender-background {
@@ -106,25 +107,30 @@
     text-align: center;
     font-weight: bold;
     margin-top: 0px;
+    color: #000000;
   }
   
   .descTitle {
     font-weight: bold;
     margin-bottom: 0;
+    color: #000000;
   }
   
   p {
     margin: 0;
     margin-top: 1.5rem;
     font-size: 1.15rem;
+    color: #000000;
   }
   
   .bio {
     margin-top: 0px;
+    color: #000000;
   }
   
   .act-title {
     font-size: 150%;
+    color: #000000;
   }
   
   .act-text {
@@ -133,6 +139,7 @@
     padding-top: 5px;
     font-size: 1rem;
     margin-left: 5%;
+    color: #000000;
   }
   
   .icon {
