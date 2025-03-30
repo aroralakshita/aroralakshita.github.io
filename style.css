@@ -25,7 +25,7 @@
   }
   
   .highlight-lavender {
-    background: linear-gradient(180deg,rgba(255,255,255, 0) 65%, #ffeaee 100%);
+    background: linear-gradient(180deg,rgba(255,255,255, 0) 65%, #ffffff 100%);
   }
   
   .space {
@@ -131,7 +131,7 @@
   
   .act-title {
     font-size: 150%;
-    color: #000000;
+    color: #fa0000;
   }
   
   .act-text {
