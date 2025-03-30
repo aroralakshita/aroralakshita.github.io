@@ -42,7 +42,7 @@
   }
   
   .thin-highlight-lavender {
-    background: linear-gradient(180deg,rgba(255,255,255, 0) 80%, #ffeaee 80%);
+    background: linear-gradient(180deg,rgba(255,255,255, 0) 80%, #ffeaee 100%);
   }
   
   a {
@@ -114,7 +114,7 @@
   .descTitle {
     font-weight: bold;
     margin-bottom: 0;
-    color: #000000;
+    color: #f00101;
   }
   
   p {
@@ -131,7 +131,7 @@
   
   .act-title {
     font-size: 150%;
-    color: #fa0000;
+    color: #000000;
   }
   
   .act-text {
