@@ -96,6 +96,7 @@
   }
   
   .white-background {
+    background: #ffffff;
     display: flex;
     flex-direction: column;
     justify-content: center;
