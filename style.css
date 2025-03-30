@@ -42,7 +42,7 @@
   }
   
   .thin-highlight-lavender {
-    background: linear-gradient(180deg,rgba(255,255,255, 0) 80%, #ffeaee 100%);
+    background: linear-gradient(180deg,rgba(255,255,255, 0) 80%, #c7efcf 100%);
   }
   
   a {
@@ -55,7 +55,7 @@
     margin-right: 5%;
     text-align: center;
     font-weight: bold;
-    color: #ffeaee
+    color: #c7efcf
   }
   
   .introduction {
@@ -88,7 +88,7 @@
   }
   
   .lavender-background {
-    background: #ffeaee;
+    background: #c7efcf;
     display: flex;
     flex-direction: column;
     justify-content: center;
